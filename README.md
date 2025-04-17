@@ -1,2 +1,1 @@
-# data-efficiency
-Data Efficient Analysis
+# Analysis of data efficiency
